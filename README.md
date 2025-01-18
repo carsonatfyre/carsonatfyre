@@ -31,10 +31,8 @@ I’m a fullstack developer and pentester currently studying at Oklahoma Virtual
 </p>
 
 
-<div id="header" align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=carsonatfyre&style=for-the-badge&color=orange" alt=""/>
-</div>
+
 
 
 <div align="center">
@@ -42,5 +40,10 @@ I’m a fullstack developer and pentester currently studying at Oklahoma Virtual
     <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
   </a>
  </div>
+
+ <div id="header" align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=carsonatfyre&style=for-the-badge&color=orange" alt=""/>
+</div>
 
 
